@@ -1,0 +1,13 @@
+name: "IfcOpenShell"
+description: "IfcOpenShell is an open-source library for working with IFC building data. It supports reading, writing, and converting IFC files in Python and C++. The project is self-hosted under LGPL licensing."
+source_url: "https://ifcopenshell.org/"
+category: "Open-Source BIM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "lgpl"
+  - "library"
+  - "ifc"
+icon_url: "https://icons.duckduckgo.com/ip3/ifcopenshell.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ifcopenshell.org/>\n- Repository: <https://github.com/IfcOpenShell/IfcOpenShell>\n\nLicense: LGPL-2.1.\n"
+updated_at: "2026-11-21 21:02"

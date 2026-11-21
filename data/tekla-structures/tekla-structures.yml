@@ -1,0 +1,13 @@
+name: "Tekla Structures"
+description: "Tekla Structures is BIM software for structural engineering and construction detailing. It enables 3D modeling of steel and concrete with fabrication data. Licensing is enterprise paid with API access."
+source_url: "https://www.tekla.com/"
+category: "BIM & Design Coordination"
+tags:
+  - "enterprise"
+  - "api"
+  - "desktop"
+  - "bim"
+  - "structural"
+icon_url: "https://icons.duckduckgo.com/ip3/www.tekla.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.tekla.com/>\n"
+updated_at: "2026-11-21 21:02"

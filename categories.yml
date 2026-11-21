@@ -1,0 +1,12 @@
+- id: construction-management
+  name: "Construction Management"
+- id: estimating-and-takeoff
+  name: "Estimating & Takeoff"
+- id: bim-and-design-coordination
+  name: "BIM & Design Coordination"
+- id: field-and-site-apps
+  name: "Field & Site Apps"
+- id: construction-accounting
+  name: "Construction Accounting"
+- id: open-source-bim
+  name: "Open-Source BIM"

@@ -1,0 +1,50 @@
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: cloud
+  name: "Cloud"
+- id: construction-management
+  name: "Construction Management"
+- id: paid
+  name: "Paid"
+- id: desktop
+  name: "Desktop"
+- id: estimating
+  name: "Estimating"
+- id: takeoff
+  name: "Takeoff"
+- id: heavy-civil
+  name: "Heavy Civil"
+- id: pdf
+  name: "PDF"
+- id: bim
+  name: "BIM"
+- id: structural
+  name: "Structural"
+- id: architecture
+  name: "Architecture"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: coordination
+  name: "Coordination"
+- id: mobile
+  name: "Mobile"
+- id: field
+  name: "Field"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: accounting
+  name: "Accounting"
+- id: erp
+  name: "ERP"
+- id: open-source
+  name: "Open Source"
+- id: lgpl
+  name: "LGPL"
+- id: library
+  name: "Library"
+- id: ifc
+  name: "IFC"

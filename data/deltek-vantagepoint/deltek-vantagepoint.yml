@@ -1,0 +1,13 @@
+name: "Deltek Vantagepoint"
+description: "Deltek Vantagepoint is an ERP and project management platform for architecture, engineering, and construction firms. It combines accounting, resource planning, and project delivery. Pricing is enterprise subscription."
+source_url: "https://www.deltek.com/"
+category: "Construction Accounting"
+tags:
+  - "enterprise"
+  - "api"
+  - "cloud"
+  - "accounting"
+  - "erp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.deltek.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.deltek.com/>\n"
+updated_at: "2026-11-21 21:02"

@@ -1,0 +1,13 @@
+name: "Autodesk Revit"
+description: "Autodesk Revit is BIM software for architects, engineers, and contractors. It supports multidisciplinary 3D modeling and documentation. Access requires a paid subscription to Autodesk products."
+source_url: "https://www.autodesk.com/products/revit/overview"
+category: "BIM & Design Coordination"
+tags:
+  - "paid"
+  - "api"
+  - "desktop"
+  - "bim"
+  - "architecture"
+icon_url: "https://icons.duckduckgo.com/ip3/www.autodesk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.autodesk.com/products/revit/overview>\n"
+updated_at: "2026-11-21 21:02"

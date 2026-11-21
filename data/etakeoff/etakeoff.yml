@@ -1,0 +1,13 @@
+name: "eTakeoff"
+description: "eTakeoff provides digital takeoff and estimating software for construction estimators. It integrates with Excel and supports 2D plan measurement. Licensing is perpetual or subscription-based paid software."
+source_url: "https://www.etakeoff.com/"
+category: "Estimating & Takeoff"
+tags:
+  - "paid"
+  - "api"
+  - "desktop"
+  - "estimating"
+  - "takeoff"
+icon_url: "https://icons.duckduckgo.com/ip3/www.etakeoff.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.etakeoff.com/>\n"
+updated_at: "2026-11-21 21:02"

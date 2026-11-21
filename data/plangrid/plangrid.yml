@@ -1,0 +1,13 @@
+name: "PlanGrid"
+description: "PlanGrid is a construction productivity app for field teams. It distributes digital blueprints, issues, and photos to the job site. It is offered as a paid subscription under Autodesk."
+source_url: "https://www.plangrid.com/"
+category: "Field & Site Apps"
+tags:
+  - "paid"
+  - "api"
+  - "cloud"
+  - "mobile"
+  - "field"
+icon_url: "https://icons.duckduckgo.com/ip3/www.plangrid.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.plangrid.com/>\n"
+updated_at: "2026-11-21 21:02"

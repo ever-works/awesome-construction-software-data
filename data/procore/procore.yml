@@ -1,0 +1,12 @@
+name: "Procore"
+description: "Procore is a cloud-based construction management platform for general contractors and specialty trades. It centralizes project documentation, scheduling, budgeting, and field collaboration. Pricing is quote-based and targeted at enterprise customers."
+source_url: "https://www.procore.com/"
+category: "Construction Management"
+tags:
+  - "enterprise"
+  - "api"
+  - "cloud"
+  - "construction-management"
+icon_url: "https://icons.duckduckgo.com/ip3/www.procore.com.ico"
+markdown: "## Pricing\n\nEnterprise.\n\n## Links\n\n- Website: <https://www.procore.com/>\n"
+updated_at: "2026-11-21 21:02"

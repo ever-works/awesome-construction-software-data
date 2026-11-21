@@ -1,18 +1,22 @@
-company_name: "Awesome Construction Software"
+company_name: Awesome Construction Software
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Construction Software"
-initial_prompt: "A curated directory of construction-management, estimating, takeoff and BIM software. Include products such as Procore, Autodesk Construction Cloud, Buildertrend, Fieldwire, Trimble Viewpoint, Raken, STACK, Bluebeam, Sage 300 CRE, Bonsai (BlenderBIM), IfcOpenShell, xBIM, plus other notable commercial and open-source options. Categories: Construction Management, Estimating & Takeoff, BIM & Design Coordination, Field & Site Apps, Construction Accounting, Open-Source BIM. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-construction-software-website"
-company_website: "https://construction.ever.works"
+name: Awesome Construction Software
+initial_prompt: "A curated directory of construction-management, estimating,
+  takeoff and BIM software. Include products such as Procore, Autodesk
+  Construction Cloud, Buildertrend, Fieldwire, Trimble Viewpoint, Raken, STACK,
+  Bluebeam, Sage 300 CRE, Bonsai (BlenderBIM), IfcOpenShell, xBIM, plus other
+  notable commercial and open-source options. Categories: Construction
+  Management, Estimating & Takeoff, BIM & Design Coordination, Field & Site
+  Apps, Construction Accounting, Open-Source BIM. For every item capture the
+  official website, a short factual description, pricing model (free, freemium,
+  paid, open source), deployment (cloud or self-hosted), key features and
+  integrations."
+website_repo: ever-works/awesome-construction-software-website
+company_website: https://construction.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +33,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull

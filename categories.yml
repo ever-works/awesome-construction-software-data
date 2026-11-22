@@ -1,12 +1,70 @@
 - id: construction-management
-  name: "Construction Management"
+  name: Construction Management
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M12.586 2.586A2 2 0 0 0 11.172 2H4a2 2 0 0
+    0-2 2v7.172a2 2 0 0 0 .586 1.414l8.704 8.704a2.426 2.426 0 0 0 3.42
+    0l6.58-6.58a2.426 2.426 0 0 0 0-3.42z"/><circle cx="7.5" cy="7.5" r=".5"
+    fill="currentColor"/></svg>
 - id: estimating-and-takeoff
-  name: "Estimating & Takeoff"
+  name: Estimating & Takeoff
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><line x1="12" y1="8"
+    x2="12" y2="2"/><rect x="11" y="1" width="2" height="2"/></svg>
 - id: bim-and-design-coordination
-  name: "BIM & Design Coordination"
+  name: BIM & Design Coordination
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><circle cx="13.5" cy="6.5" r=".5"
+    fill="currentColor"/><circle cx="17.5" cy="10.5" r=".5"
+    fill="currentColor"/><circle cx="8.5" cy="7.5" r=".5"
+    fill="currentColor"/><circle cx="6.5" cy="12.5" r=".5"
+    fill="currentColor"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0
+    1.648-.746 1.648-1.688
+    0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1
+    1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12
+    2z"/></svg>
 - id: field-and-site-apps
-  name: "Field & Site Apps"
+  name: Field & Site Apps
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="4" y="4" width="16" height="16"/><line
+    x1="4" y1="4" x2="20" y2="20"/><circle cx="12" cy="12" r="2"/></svg>
 - id: construction-accounting
-  name: "Construction Accounting"
+  name: Construction Accounting
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><line x1="12" x2="12" y1="2" y2="22"/><path d="M17
+    5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
 - id: open-source-bim
-  name: "Open-Source BIM"
+  name: Open Source BIM
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline
+    points="8 6 2 12 8 18"/></svg>
+- id: bim-design-coordination
+  name: BIM & Design Coordination
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><circle cx="13.5" cy="6.5" r=".5"
+    fill="currentColor"/><circle cx="17.5" cy="10.5" r=".5"
+    fill="currentColor"/><circle cx="8.5" cy="7.5" r=".5"
+    fill="currentColor"/><circle cx="6.5" cy="12.5" r=".5"
+    fill="currentColor"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0
+    1.648-.746 1.648-1.688
+    0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1
+    1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12
+    2z"/></svg>
+- id: estimating-takeoff
+  name: Estimating & Takeoff
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><path d="M4 12H20M6 10V14M10 11V13M14 10V14M18
+    11V13"/></svg>
+- id: field-site-apps
+  name: Field & Site Apps
+  icon_svg: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+    stroke-linejoin="round"><rect x="4" y="4" width="16" height="16"/><line
+    x1="4" y1="4" x2="20" y2="20"/><circle cx="12" cy="12" r="2"/></svg>

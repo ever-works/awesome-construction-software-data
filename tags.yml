@@ -1,50 +1,176 @@
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: api
-  name: "API"
+  name: API
 - id: cloud
-  name: "Cloud"
+  name: Cloud
 - id: construction-management
-  name: "Construction Management"
+  name: Construction Management
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: desktop
-  name: "Desktop"
+  name: Desktop
 - id: estimating
-  name: "Estimating"
+  name: Estimating
 - id: takeoff
-  name: "Takeoff"
+  name: Takeoff
 - id: heavy-civil
-  name: "Heavy Civil"
+  name: Heavy Civil
 - id: pdf
-  name: "PDF"
+  name: Pdf
 - id: bim
-  name: "BIM"
+  name: BIM
 - id: structural
-  name: "Structural"
+  name: Structural
 - id: architecture
-  name: "Architecture"
+  name: Architecture
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: coordination
-  name: "Coordination"
+  name: Coordination
 - id: mobile
-  name: "Mobile"
+  name: Mobile
 - id: field
-  name: "Field"
+  name: Field
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: accounting
-  name: "Accounting"
+  name: Accounting
 - id: erp
-  name: "ERP"
+  name: Erp
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: lgpl
-  name: "LGPL"
+  name: LGPL
 - id: library
-  name: "Library"
+  name: Library
 - id: ifc
-  name: "IFC"
+  name: Ifc
+- id: ai
+  name: AI
+- id: claude-code
+  name: Claude Code
+- id: scheduling
+  name: Scheduling
+- id: document-control
+  name: Document Control
+- id: cad
+  name: CAD
+- id: collaboration
+  name: Collaboration
+- id: aec
+  name: Aec
+- id: webgl
+  name: Webgl
+- id: javascript
+  name: Javascript
+- id: server
+  name: Server
+- id: blender
+  name: Blender
+- id: gpl
+  name: GPL
+- id: real-estate
+  name: Real Estate
+- id: workplace-strategy
+  name: Workplace Strategy
+- id: financials
+  name: Financials
+- id: cost-database
+  name: Cost Database
+- id: qdrant
+  name: Qdrant
+- id: semantic-search
+  name: Semantic Search
+- id: multilingual
+  name: Multilingual
+- id: computer-vision
+  name: Computer Vision
+- id: safety
+  name: Safety
+- id: construction-site
+  name: Construction Site
+- id: python
+  name: Python
+- id: job-costing
+  name: Job Costing
+- id: sme
+  name: Sme
+- id: conversion
+  name: Conversion
+- id: revit
+  name: Revit
+- id: csharp
+  name: Csharp
+- id: computational-design
+  name: Computational Design
+- id: visual-programming
+  name: Visual Programming
+- id: parametric
+  name: Parametric
+- id: 3d-modeling
+  name: 3d Modeling
+- id: geometry
+  name: Geometry
+- id: c
+  name: C#
+- id: threejs
+  name: Threejs
+- id: web-based
+  name: Web Based
+- id: typescript
+  name: Typescript
+- id: digital-twin
+  name: Digital Twin
+- id: field-service
+  name: Field Service
+- id: all-in-one
+  name: All In One
+- id: project-management
+  name: Project Management
+- id: trade-contractors
+  name: Trade Contractors
+- id: remodelers
+  name: Remodelers
+- id: clash-detection
+  name: Clash Detection
+- id: agpl-30
+  name: AGPL 3.0
+- id: construction-accounting
+  name: Construction Accounting
+- id: browser-based
+  name: Browser Based
+- id: mcp
+  name: MCP
+- id: flooring
+  name: Flooring
+- id: construction-estimating
+  name: Construction Estimating
+- id: daily-reporting
+  name: Daily Reporting
+- id: field-management
+  name: Field Management
+- id: nurbs
+  name: NURBS
+- id: floor-plan
+  name: Floor Plan
+- id: 3d
+  name: 3D
+- id: house-design
+  name: House Design
+- id: bill-of-materials
+  name: Bill Of Materials
+- id: architectural
+  name: Architectural
+- id: minimal
+  name: Minimal
+- id: model-checking
+  name: Model Checking
+- id: qa
+  name: QA
+- id: net
+  name: .NET
+- id: point-cloud
+  name: Point Cloud

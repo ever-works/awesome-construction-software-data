@@ -1,14 +1,68 @@
-- url: "https://www.softwaresuggest.com/construction-management-software"
-  title: "SoftwareSuggest — Construction Management software"
-- url: "https://www.softwaresuggest.com/bim-software"
-  title: "SoftwareSuggest — BIM Software"
-- url: "https://www.saashub.com/best-construction-management-software"
-  title: "SaaSHub — Construction Management"
-- url: "https://raw.githubusercontent.com/mitevpi/awesome-bim/HEAD/README.md"
-  title: "GitHub list — mitevpi/awesome-bim (200★, stale)"
-- url: "https://en.wikipedia.org/wiki/Category:Building_information_modeling"
-  title: "Wikipedia — Category:Building information modeling"
-- url: "https://github.com/topics/construction"
-  title: "GitHub topic — `construction` (2,056 repos)"
-- url: "https://github.com/topics/bim"
-  title: "GitHub topic — `bim` (1,402 repos)"
+- url: https://en.wikipedia.org/wiki/Category:Building_information_modeling
+  normalized_url: https://en.wikipedia.org/wiki/Category:Building_information_modeling
+  first_seen_at: 2026-11-22T04:05:43.489Z
+  last_attempted_at: 2026-11-22T04:05:43.489Z
+  last_success_at: 2026-11-22T04:05:43.489Z
+  status: success
+  items_created: 12
+  pipeline: agent-pipeline
+- url: https://github.com/topics/bim
+  normalized_url: https://github.com/topics/bim
+  first_seen_at: 2026-11-22T04:11:51.383Z
+  last_attempted_at: 2026-11-22T04:11:51.383Z
+  last_success_at: 2026-11-22T04:11:51.383Z
+  status: success
+  items_created: 10
+  pipeline: agent-pipeline
+- url: https://github.com/topics/construction
+  normalized_url: https://github.com/topics/construction
+  first_seen_at: 2026-11-22T04:09:30.240Z
+  last_attempted_at: 2026-11-22T04:09:30.240Z
+  last_success_at: 2026-11-22T04:09:30.240Z
+  status: success
+  items_created: 11
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/mitevpi/awesome-bim/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/mitevpi/awesome-bim/HEAD/README.md
+  first_seen_at: 2026-11-22T04:03:34.810Z
+  last_attempted_at: 2026-11-22T04:03:34.810Z
+  last_success_at: 2026-11-22T04:03:34.810Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.procore.com
+  normalized_url: https://www.procore.com/
+  first_seen_at: 2026-11-22T04:12:24.345Z
+  last_attempted_at: 2026-11-22T04:12:24.345Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.procore.com"
+- url: https://www.saashub.com/best-construction-management-software
+  normalized_url: https://www.saashub.com/best-construction-management-software
+  first_seen_at: 2026-11-22T04:02:17.966Z
+  last_attempted_at: 2026-11-22T04:02:17.966Z
+  last_success_at: 2026-11-22T04:02:17.966Z
+  status: success
+  items_created: 7
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/bim-software
+  normalized_url: https://www.softwaresuggest.com/bim-software
+  first_seen_at: 2026-11-22T04:06:04.163Z
+  last_attempted_at: 2026-11-22T04:06:04.163Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.softwaresuggest.com/bim-software"
+- url: https://www.softwaresuggest.com/construction-management-software
+  normalized_url: https://www.softwaresuggest.com/construction-management-software
+  first_seen_at: 2026-11-22T04:00:53.811Z
+  last_attempted_at: 2026-11-22T04:00:53.811Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/construction-management-software"

@@ -1,0 +1,51 @@
+name: Dynamo Libraries for Revit
+description: Dynamo Libraries for Revit provides visual programming tools for
+  computational design and automation within Autodesk Revit. A C# open-source
+  project hosted on GitHub.
+source_url: https://github.com/DynamoDS/Dynamo
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - revit
+  - csharp
+  - computational-design
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Dynamo Libraries for Revit is an open-source visual programming platform for
+  computational design and automation within Autodesk Revit. It enables users to
+  create custom scripts, automate repetitive tasks, and perform generative
+  design workflows.
+
+
+  ## Features
+
+
+  - Visual programming for Revit
+
+  - Computational design
+
+  - Task automation
+
+  - Generative design
+
+  - C# libraries
+
+  - Revit API integration
+
+
+  ## Pricing
+
+
+  Free and open-source. Repository: https://github.com/DynamoDS/Dynamo
+
+
+  ## Deployment
+
+
+  Desktop plug-in for Autodesk Revit.
+brand: DynamoDS
+brand_logo_url: https://github.com/DynamoDS/Dynamo/raw/master/logo.png
+updated_at: 2026-11-22 04:14

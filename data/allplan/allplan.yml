@@ -1,0 +1,45 @@
+name: Allplan
+description: Allplan is a BIM and CAD software solution developed by Nemetschek
+  for architects and engineers, supporting 3D modeling, 2D drafting, and
+  construction documentation throughout the building lifecycle.
+source_url: https://www.allplan.com/
+category: BIM & Design Coordination
+tags:
+  - BIM
+  - CAD
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Allplan is a BIM and CAD software solution developed by Nemetschek for
+  architects and engineers, supporting 3D modeling, 2D drafting, and
+  construction documentation throughout the building lifecycle.
+
+
+  ## Features
+
+
+  - 3D BIM modeling and 2D drafting
+
+  - Architectural and structural engineering tools
+
+  - Reinforced concrete design
+
+  - Quantity takeoff and cost estimation
+
+  - IFC support for interoperability
+
+  - Collaboration tools for multidisciplinary teams
+
+
+  ## Pricing
+
+
+  Paid commercial software with licensing options available through Nemetschek.
+brand: Nemetschek
+brand_logo_url: https://www.allplan.com/fileadmin/user_upload/logo.svg
+images:
+  - https://www.allplan.com/fileadmin/user_upload/allplan-bim-software.png
+updated_at: 2026-11-22 04:14

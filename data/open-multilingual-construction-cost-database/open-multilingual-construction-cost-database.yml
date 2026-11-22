@@ -1,0 +1,50 @@
+name: Open Multilingual Construction Cost Database
+description: Open multilingual construction cost database for AI Agents with
+  55K+ work items, 27K+ resources, and 30 regions. Features semantic search via
+  Qdrant vector database.
+source_url: https://github.com/construction-cost-db/construction-cost-db
+category: Estimating & Takeoff
+tags:
+  - open-source
+  - cost-database
+  - AI
+  - Qdrant
+  - semantic-search
+  - multilingual
+markdown: >-
+  ## Overview
+
+
+  Open multilingual construction cost database for AI Agents containing 55K+
+  work items, 27K+ resources, and coverage of 30 regions. Provides semantic
+  search via Qdrant vector database.
+
+
+  ## Features
+
+
+  - 55K+ work items
+
+  - 27K+ resources
+
+  - 30 regions
+
+  - Multilingual support
+
+  - Semantic search via Qdrant vector database
+
+  - AI agent focused
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Web-based, HTML.
+brand: Open Multilingual Construction Cost Database
+updated_at: 2026-11-22 04:14

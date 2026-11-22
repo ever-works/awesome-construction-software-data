@@ -1,0 +1,47 @@
+name: PDF.js
+description: An open source PDF viewer/editor with its own blazing fast Rust
+  engine. PDF.js is a JavaScript library for rendering PDF documents in web
+  browsers.
+source_url: https://mozilla.github.io/pdf.js/
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - pdf
+  - javascript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  PDF.js is an open-source PDF viewer/editor built with its own Rust engine for
+  fast rendering. It is a JavaScript library that enables PDF documents to be
+  rendered in web browsers without plugins.
+
+
+  ## Features
+
+
+  - PDF rendering in web browsers
+
+  - Rust-based rendering engine
+
+  - JavaScript library
+
+  - No browser plugins required
+
+  - Open source
+
+
+  ## Pricing
+
+
+  Free and open-source. Repository: https://github.com/mozilla/pdf.js
+
+
+  ## Deployment
+
+
+  Web-based (JavaScript library).
+brand: Mozilla
+brand_logo_url: https://github.com/mozilla/pdf.js/raw/master/demo/images/logo.png
+updated_at: 2026-11-22 04:14

@@ -1,0 +1,52 @@
+name: 221 AI Skills for Construction
+description: Collection of 221 AI skills for construction including BIM
+  analysis, cost estimation, scheduling, document control, and automation with
+  Claude Code.
+source_url: https://github.com/ai-skills-construction/221-ai-skills-construction
+category: Construction Management
+tags:
+  - open-source
+  - AI
+  - Claude-Code
+  - BIM
+  - scheduling
+  - document-control
+markdown: >-
+  ## Overview
+
+
+  Collection of 221 AI skills for construction workflows including BIM analysis,
+  cost estimation, scheduling, document control, and automation using Claude
+  Code.
+
+
+  ## Features
+
+
+  - 221 AI skills for construction
+
+  - BIM analysis
+
+  - Cost estimation
+
+  - Scheduling
+
+  - Document control
+
+  - Automation
+
+  - Claude Code integration
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Python, self-hosted.
+brand: 221 AI Skills for Construction
+updated_at: 2026-11-22 04:14

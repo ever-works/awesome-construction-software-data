@@ -1,0 +1,46 @@
+name: IFC.js
+description: The official IFC Loader for Three.js, enabling web-based
+  visualization and interaction with Industry Foundation Classes (IFC) BIM
+  models. Open-source JavaScript library for loading and displaying IFC files in
+  browser-based 3D applications.
+source_url: https://github.com/ifcjs/ifc.js
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - BIM
+  - IFC
+  - Three.js
+  - web-based
+markdown: >-
+  ## Overview
+
+
+  IFC.js is the official IFC Loader for Three.js, an open-source JavaScript
+  library that enables loading and rendering Industry Foundation Classes (IFC)
+  BIM models in web browsers using Three.js.
+
+
+  ## Features
+
+
+  - Load IFC files in the browser via Three.js
+
+  - Web-based BIM model visualization
+
+  - Open-source JavaScript library
+
+  - Official IFC loader for the Three.js ecosystem
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Web-based (browser), client-side JavaScript library.
+brand: IFC.js
+updated_at: 2026-11-22 04:14

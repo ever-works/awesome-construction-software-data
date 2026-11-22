@@ -1,0 +1,47 @@
+name: Bentley OpenBuildings Designer
+description: Bentley OpenBuildings Designer is a BIM software for architectural
+  design, engineering, and construction documentation, supporting
+  multidisciplinary building design and analysis workflows.
+source_url: https://www.bentley.com/en/products/product-line/buildings-design-software/openbuildings-designer
+category: BIM & Design Coordination
+tags:
+  - BIM
+  - CAD
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bentley OpenBuildings Designer is a BIM software for architectural design,
+  engineering, and construction documentation, supporting multidisciplinary
+  building design and analysis workflows.
+
+
+  ## Features
+
+
+  - Architectural design and documentation
+
+  - Structural analysis and design
+
+  - MEP systems design
+
+  - Energy analysis and simulation
+
+  - IFC support for interoperability
+
+  - Generative design capabilities
+
+  - Cloud collaboration through ProjectWise
+
+
+  ## Pricing
+
+
+  Paid commercial software with subscription licensing through Bentley Systems.
+brand: Bentley Systems
+brand_logo_url: https://www.bentley.com/content/dam/bentley-com/logos/bentley-logo.svg
+images:
+  - https://www.bentley.com/content/dam/bentley-com/products/openbuildings-designer/openbuildings-designer-hero.png
+updated_at: 2026-11-22 04:14

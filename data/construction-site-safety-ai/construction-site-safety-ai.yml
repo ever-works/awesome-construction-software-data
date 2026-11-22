@@ -1,0 +1,46 @@
+name: Construction Site Safety AI
+description: GitHub project that aims to recognize unsafe actions of workers on
+  construction sites using AI and computer vision. Python-based safety
+  monitoring solution for construction sites.
+source_url: https://github.com/construction-safety/unsafe-actions-detection
+category: Field & Site Apps
+tags:
+  - open-source
+  - AI
+  - computer-vision
+  - safety
+  - construction-site
+  - Python
+markdown: >-
+  ## Overview
+
+
+  GitHub project that aims to recognize unsafe actions of workers on
+  construction sites using AI and computer vision. A Python-based safety
+  monitoring solution for construction sites.
+
+
+  ## Features
+
+
+  - Unsafe action recognition for construction workers
+
+  - AI and computer vision based
+
+  - Construction site safety monitoring
+
+  - Python implementation
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Python, self-hosted.
+brand: Construction Site Safety AI
+updated_at: 2026-11-22 04:14

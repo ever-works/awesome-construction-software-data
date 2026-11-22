@@ -1,0 +1,48 @@
+name: Autodesk Construction Cloud
+description: Autodesk Construction Cloud is a connected construction platform
+  that unifies design, planning, project management, and field operations
+  through cloud-based BIM and construction management tools.
+source_url: https://www.autodesk.com/construction-cloud/
+category: Construction Management
+tags:
+  - cloud
+  - enterprise
+  - API
+featured: true
+markdown: >-
+  ## Overview
+
+
+  Autodesk Construction Cloud is a connected construction platform that unifies
+  design, planning, project management, and field operations through cloud-based
+  BIM and construction management tools.
+
+
+  ## Features
+
+
+  - Document management and control
+
+  - Project cost and field management
+
+  - Design collaboration and BIM coordination
+
+  - Quality and safety management
+
+  - Bid management and trade partner collaboration
+
+  - Analytics and predictive insights
+
+  - Integration with Autodesk Revit, Navisworks, and AutoCAD
+
+
+  ## Pricing
+
+
+  Paid enterprise software with tiered pricing based on project volume and user
+  count.
+brand: Autodesk
+brand_logo_url: https://www.autodesk.com/content/dam/autodesk/www/logos/autodesk-logo.svg
+images:
+  - https://www.autodesk.com/content/dam/autodesk/www/products/construction-cloud/overview/construction-cloud-hero.png
+updated_at: 2026-11-22 04:14

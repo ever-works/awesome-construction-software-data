@@ -1,0 +1,48 @@
+name: BIM Surfer
+description: The latest version of the BIM Surfer WebGL viewer for IFC. A
+  JavaScript-based open-source project for viewing IFC building information
+  models in web browsers.
+source_url: https://github.com/IfcOpenShell/BIMsurfer
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - ifc
+  - webgl
+  - javascript
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BIM Surfer is a WebGL-based viewer for IFC (Industry Foundation Classes)
+  building information models. It enables web-based visualization of BIM data
+  without requiring specialized desktop software.
+
+
+  ## Features
+
+
+  - IFC model viewing
+
+  - WebGL-based rendering
+
+  - Web browser-based
+
+  - Open source
+
+  - JavaScript
+
+
+  ## Pricing
+
+
+  Free and open-source. Repository: https://github.com/IfcOpenShell/BIMsurfer
+
+
+  ## Deployment
+
+
+  Web-based.
+brand: BIM Surfer
+brand_logo_url: https://github.com/IfcOpenShell/BIMsurfer/raw/main/logo.png
+updated_at: 2026-11-22 04:14

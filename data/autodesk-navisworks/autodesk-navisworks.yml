@@ -1,0 +1,49 @@
+name: Autodesk Navisworks
+description: Autodesk Navisworks is a BIM project review software for 3D model
+  coordination, clash detection, and construction simulation, enabling
+  multidisciplinary design review and conflict resolution before construction
+  begins.
+source_url: https://www.autodesk.com/products/navisworks/overview
+category: BIM & Design Coordination
+tags:
+  - BIM
+  - clash-detection
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Autodesk Navisworks is a BIM project review software for 3D model
+  coordination, clash detection, and construction simulation, enabling
+  multidisciplinary design review and conflict resolution before construction
+  begins.
+
+
+  ## Features
+
+
+  - 3D model aggregation from multiple BIM formats
+
+  - Clash detection and interference checking
+
+  - 4D construction simulation and sequencing
+
+  - 5D cost estimation and quantification
+
+  - Model review and navigation
+
+  - Timeliner for construction sequencing
+
+  - Integration with Revit, AutoCAD, and AutoCAD MEP
+
+
+  ## Pricing
+
+
+  Paid commercial software with subscription licensing through Autodesk.
+brand: Autodesk
+brand_logo_url: https://www.autodesk.com/content/dam/autodesk/www/logos/autodesk-logo.svg
+images:
+  - https://www.autodesk.com/content/dam/autodesk/www/products/navisworks/overview/navisworks-hero.png
+updated_at: 2026-11-22 04:14

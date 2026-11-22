@@ -1,0 +1,54 @@
+name: DDC Converters
+description: DDC Converters 2.0 converts RVT/RFA to GLB, IFC4 and JSONL; IFC to
+  Excel; DWG to Excel, DXF and SVG. Provides offline CLI and desktop apps, n8n
+  workflows, and AI-agent instructions. A Python-based open-source project.
+source_url: https://github.com/ddc-converters/ddc-converters
+category: Estimating & Takeoff
+tags:
+  - open-source
+  - ifc
+  - conversion
+  - python
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DDC Converters 2.0 is a suite of file conversion tools for AEC data formats.
+  It converts RVT/RFA to GLB, IFC4, and JSONL; IFC to Excel; and DWG to Excel,
+  DXF, and SVG. Available as offline CLI, desktop apps, n8n workflows, and
+  AI-agent instructions.
+
+
+  ## Features
+
+
+  - RVT/RFA to GLB, IFC4, JSONL conversion
+
+  - IFC to Excel conversion
+
+  - DWG to Excel, DXF, SVG conversion
+
+  - Offline CLI
+
+  - Desktop applications
+
+  - n8n workflows
+
+  - AI-agent instructions
+
+
+  ## Pricing
+
+
+  Free and open-source. Repository:
+  https://github.com/ddc-converters/ddc-converters
+
+
+  ## Deployment
+
+
+  Desktop application and CLI (self-hosted).
+brand: DDC Converters
+brand_logo_url: https://github.com/ddc-converters/ddc-converters/raw/main/logo.png
+updated_at: 2026-11-22 04:14

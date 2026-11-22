@@ -1,0 +1,52 @@
+name: xeokit Viewer
+description: Built with xeokit SDK, this is an IFC, BIM and Point Cloud 3D
+  Viewer package that enables AEC and GIS applications with double precision
+  global coordinates. A JavaScript-based open-source toolkit.
+source_url: https://xeokit.com/
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - ifc
+  - webgl
+  - aec
+  - point-cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  xeokit Viewer is a JavaScript-based 3D viewer built with the xeokit SDK,
+  designed for IFC, BIM, and point cloud visualization in AEC and GIS
+  applications. It provides double precision global coordinates for accurate
+  real-world positioning.
+
+
+  ## Features
+
+
+  - IFC and BIM model viewing
+
+  - Point cloud visualization
+
+  - Double precision global coordinates
+
+  - AEC and GIS application support
+
+  - WebGL-based rendering
+
+  - JavaScript SDK
+
+
+  ## Pricing
+
+
+  Free and open-source. Repository: https://github.com/xeokit/xeokit-sdk
+
+
+  ## Deployment
+
+
+  Web-based (JavaScript library).
+brand: xeokit
+brand_logo_url: https://github.com/xeokit/xeokit-sdk/raw/master/logo.png
+updated_at: 2026-11-22 04:14

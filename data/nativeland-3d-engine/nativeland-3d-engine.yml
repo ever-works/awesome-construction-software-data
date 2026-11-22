@@ -1,0 +1,49 @@
+name: Nativeland 3D Engine
+description: A free and open-source 3D engine based on Vue3 + THREE.JS with an
+  accompanying editor. It features BIM lightweighting, CAD parsing preview,
+  particle system, and plugin system. A JavaScript-based open-source project.
+source_url: https://github.com/nativeland/nativeland
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - threejs
+  - web-based
+featured: false
+markdown: >-
+  ## Overview
+
+
+  A free and open-source 3D engine based on Vue3 + THREE.JS with its
+  accompanying editor. It features functions such as BIM lightweighting, CAD
+  parsing preview, particle system, and plugin system.
+
+
+  ## Features
+
+
+  - BIM lightweighting
+
+  - CAD parsing preview
+
+  - Particle system
+
+  - Plugin system
+
+  - Vue3 + THREE.JS based
+
+  - Accompanying editor
+
+
+  ## Pricing
+
+
+  Free and open-source. Repository: https://github.com/nativeland/nativeland
+
+
+  ## Deployment
+
+
+  Web-based.
+brand: Nativeland
+brand_logo_url: https://github.com/nativeland/nativeland/raw/main/logo.png
+updated_at: 2026-11-22 04:14

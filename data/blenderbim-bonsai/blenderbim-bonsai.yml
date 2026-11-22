@@ -1,0 +1,49 @@
+name: BlenderBIM (Bonsai)
+description: BlenderBIM is an open-source BIM authoring tool built on Blender,
+  supporting IFC-based building information modeling with native IFC read/write
+  capabilities, developed as part of the Bonsai project.
+source_url: https://blenderbim.org/
+category: Open-Source BIM
+tags:
+  - open-source
+  - IFC
+  - Blender
+  - GPL
+featured: false
+markdown: >-
+  ## Overview
+
+
+  BlenderBIM is an open-source BIM authoring tool built on Blender, supporting
+  IFC-based building information modeling with native IFC read/write
+  capabilities, developed as part of the Bonsai project.
+
+
+  ## Features
+
+
+  - Native IFC read/write support
+
+  - BIM authoring within Blender
+
+  - IFC schema support (IFC2x3, IFC4)
+
+  - 3D modeling and visualization
+
+  - Python API for scripting and automation
+
+  - Open-source under GPL license
+
+  - Community-driven development
+
+
+  ## Pricing
+
+
+  Free and open-source under the GNU GPL v3 license. Source code available on
+  GitHub.
+brand: IfcOpenShell
+brand_logo_url: https://blenderbim.org/static/logo.svg
+images:
+  - https://blenderbim.org/static/screenshots/blenderbim-hero.png
+updated_at: 2026-11-22 04:14

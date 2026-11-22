@@ -1,0 +1,71 @@
+name: Open Self-Hosted IFC-Native AEC Platform
+description: Open, self-hosted, IFC-native AEC platform featuring a web BIM
+  viewer and modeling, ~100-module GC portal (RFIs, pay apps, CPM, construction
+  accounting — double-entry GL/WIP → QuickBooks, e-sign), AI assist, IDS
+  authoring, estimating + embodied carbon, development proforma, and
+  operate/dispose (CMMS, facility condition, rent roll, waterfall).
+source_url: https://github.com/open-aec-platform/open-aec-platform
+category: Construction Management
+tags:
+  - open-source
+  - self-hosted
+  - IFC
+  - AEC
+  - BIM
+  - construction-accounting
+  - AI
+  - estimating
+markdown: >-
+  ## Overview
+
+
+  Open, self-hosted, IFC-native AEC platform combining web BIM viewer and
+  modeling with a ~100-module GC portal covering RFIs, pay applications, CPM
+  scheduling, construction accounting (double-entry GL/WIP → QuickBooks),
+  e-signatures, AI assist, IDS authoring, estimating with embodied carbon,
+  development proforma, and operate/dispose capabilities (CMMS, facility
+  condition, rent roll, waterfall).
+
+
+  ## Features
+
+
+  - Web BIM viewer + modeling
+
+  - IFC-native
+
+  - Self-hosted
+
+  - ~100-module GC portal
+
+  - RFIs, pay apps, CPM scheduling
+
+  - Construction accounting: double-entry GL/WIP → QuickBooks
+
+  - E-signatures
+
+  - AI assist
+
+  - IDS authoring
+
+  - Estimating + embodied carbon
+
+  - Development proforma
+
+  - CMMS, facility condition, rent roll, waterfall
+
+  - Python
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted, Python.
+brand: Open IFC-Native AEC Platform
+updated_at: 2026-11-22 04:14

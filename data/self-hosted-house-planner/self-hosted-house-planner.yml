@@ -1,0 +1,58 @@
+name: Self-Hosted House Planner
+description: Self-hosted house planner with true-scale 2D floor plans, 3D
+  visualization, satellite map overlay, sewer, electrical, water, and underfloor
+  heating with calculations, and priced bill of materials. Built with React +
+  PHP, no database required. By the team behind homedesignsai.pro.
+source_url: https://github.com/homedesignsai/house-planner
+category: BIM & Design Coordination
+tags:
+  - open-source
+  - self-hosted
+  - floor-plan
+  - 3D
+  - house-design
+  - bill-of-materials
+markdown: >-
+  ## Overview
+
+
+  Self-hosted house planner featuring true-scale 2D floor plans, 3D
+  visualization, satellite map overlay, sewer, electrical, water, and underfloor
+  heating with calculations, plus priced bill of materials. Built with React +
+  PHP, no database required.
+
+
+  ## Features
+
+
+  - True-scale 2D floor plans
+
+  - 3D visualization
+
+  - Satellite map overlay
+
+  - Sewer, electrical, water design
+
+  - Underfloor heating with calculations
+
+  - Priced bill of materials
+
+  - React + PHP stack
+
+  - No database required
+
+  - Self-hosted
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted, React + PHP, no database.
+brand: Self-Hosted House Planner
+updated_at: 2026-11-22 04:14

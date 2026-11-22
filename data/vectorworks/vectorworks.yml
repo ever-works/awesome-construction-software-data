@@ -1,0 +1,50 @@
+name: Vectorworks
+description: Vectorworks is a BIM and CAD software solution for architects,
+  landscape architects, and entertainment designers, supporting 2D drafting, 3D
+  modeling, and building information modeling workflows across multiple design
+  disciplines.
+source_url: https://www.vectorworks.net/
+category: BIM & Design Coordination
+tags:
+  - BIM
+  - CAD
+  - architectural
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Vectorworks is a BIM and CAD software solution for architects, landscape
+  architects, and entertainment designers, supporting 2D drafting, 3D modeling,
+  and building information modeling workflows across multiple design
+  disciplines.
+
+
+  ## Features
+
+
+  - 2D drafting and 3D modeling
+
+  - BIM workflows with IFC support
+
+  - Architectural design and documentation
+
+  - Landscape architecture tools
+
+  - Entertainment design tools
+
+  - Rendering and visualization
+
+  - Collaboration and file sharing
+
+
+  ## Pricing
+
+
+  Paid commercial software with perpetual license and subscription options
+  available through Vectorworks.
+brand: Vectorworks
+brand_logo_url: https://www.vectorworks.net/fileadmin/user_upload/logo.svg
+images:
+  - https://www.vectorworks.net/fileadmin/user_upload/vectorworks-hero.png
+updated_at: 2026-11-22 04:14
